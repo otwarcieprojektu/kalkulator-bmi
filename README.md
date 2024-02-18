@@ -21,7 +21,7 @@ Na podstawie obliczonego BMI, wyświetl odpowiednią interpretację, zgodnie z p
 - 18.5 ≤ BMI < 24.9: Waga prawidłowa.
 - 25.0 ≤ BMI < 29.9: Nadwaga.
 - BMI ≥ 30.0: Otyłość.
-- 
+
 Walidacja danych:
 
 Przed obliczeniem BMI, upewnij się, że użytkownik wprowadził poprawne dane (liczby większe od zera).
