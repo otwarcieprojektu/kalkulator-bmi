@@ -31,6 +31,7 @@ Zweryfikuj poprawność działania kalkulatora, testując go z różnymi danymi 
 Dodatkowe funkcje (opcjonalnie):
 
 Możesz dodać dodatkowe funkcje, takie jak możliwość wyboru jednostek (np. kg/cm lub lbs/in), lub wyświetlanie sugestii dotyczących zdrowego stylu życia na podstawie wyniku BMI.
+
 Wskazówki:
 
 - Zadbaj o czytelność kodu i odpowiednie komentarze.
